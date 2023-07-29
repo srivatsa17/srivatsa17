@@ -4,7 +4,7 @@ I'm a passionate software engineer based in Bangalore, India, with a knack for t
 
 ## Tech Stack
 ### Programming Languages
--   C,
+-   C
 -   C++
 -   Python
 -   Javascript
