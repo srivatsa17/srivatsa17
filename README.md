@@ -6,7 +6,7 @@ I'm a passionate software engineer based in Bangalore, India, with a knack for t
 
 | Category                      | Developer Tools |
 | ----------------------------- | --------------- |
-| Programming Languages         | `Go/Golang`, `C++`, `Python`, `Javascript`, `Perl` |
+| Programming Languages         | `Go/Golang`, `C++`, `Python`, `Typescript`. `Javascript`, `Perl` |
 | Frameworks/Libraries          | `Gin`, `Django`, `React`, `Redux`, `Celery` |
 | Databases                     | `MySQL`, `PostgreSQL`, `Redis` |
 | DevOps and Development Tools  | `Docker`, `Git`, `GitHub`, `Jenkins`, `Postman`, `VSCode`, `Vim` |
